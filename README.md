@@ -1,2 +1,3 @@
 # Chatbot_Proj
-This is a rule based chatbot project
+This is a rule based chatbot project using python and tikinter....
+Developed by Binod
